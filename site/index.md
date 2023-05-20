@@ -1,5 +1,5 @@
 ---
-title: Sympolymathesy
+title: artur pericles
 layout: index.njk
 standalonePage: true
 summary: {{config.description}}
