@@ -3,7 +3,7 @@ module.exports = {
    repo: 'https://github.com/chriskrycho/v5.chriskrycho.com',
    title: {
       normal: 'artur pericles',
-      stylized: '*art*ur pericles',
+      stylized: '<b>art</b>ur pericles',
    },
    subtitle: 'by Chris Krycho',
    description:
