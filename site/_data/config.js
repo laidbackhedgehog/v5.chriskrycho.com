@@ -3,8 +3,7 @@ module.exports = {
    repo: 'https://github.com/chriskrycho/v5.chriskrycho.com',
    title: {
       normal: 'artur pericles',
-      stylized-art: 'art',
-      stylized: 'ur pericles',
+      stylized: 'artur pericles',
    },
    subtitle: 'Associate Research Scholar, Yale Law School',
    description:
