@@ -6,7 +6,7 @@ module.exports = {
       stylized: 'artur pericles',
    },
    extra: {
-      headshoot: 'https://law.yale.edu/sites/default/files/styles/people_pane_photo/public/artur-pericles.-foto-de-bianca-moreira.internetlab-1.jpg'
+      headshoot: 'https://law.yale.edu/sites/default/files/styles/people_pane_photo/public/artur-pericles.-foto-de-bianca-moreira.internetlab-1.jpg',
       }
    subtitle: 'Associate Research Scholar, Yale Law School',
    description:
