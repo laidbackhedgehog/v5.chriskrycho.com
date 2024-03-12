@@ -1,4 +1,6 @@
 module.exports = {
+   
+   repo: 'https://github.com/laidbackhedgehog/v5.chriskrycho.com',
    title: {
       normal: 'artur pericles l. monteiro',
       stylized: 'artur pericles l. monteiro',
