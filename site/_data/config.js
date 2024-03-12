@@ -1,5 +1,5 @@
 module.exports = {
-   
+   url: 'https://tourmaline-genie-c741f9.netlify.app',
    repo: 'https://github.com/laidbackhedgehog/v5.chriskrycho.com',
    title: {
       normal: 'artur pericles l. monteiro',
