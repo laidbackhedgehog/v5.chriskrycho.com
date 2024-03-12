@@ -1,14 +1,12 @@
 module.exports = {
-   url: 'https://v5.chriskrycho.com/',
-   repo: 'https://github.com/chriskrycho/v5.chriskrycho.com',
    title: {
-      normal: 'artur pericles',
-      stylized: 'artur pericles',
+      normal: 'artur pericles l. monteiro',
+      stylized: 'artur pericles l. monteiro',
    },
    extra: {
-      headshot: 'https://law.yale.edu/sites/default/files/styles/people_pane_photo/public/artur-pericles.-foto-de-bianca-moreira.internetlab-1.jpg',
+      headshot: 'https://jackson.yale.edu/wp-content/uploads/2022/08/Artur-Pericles-Lima-Monteiro.JPG',
    },
-   subtitle: 'Associate Research Scholar, Yale Law School',
+   subtitle: 'Lecturer & Schmidt Visiting Scholar on AI, Yale Jackson School of Global Affairs. Resident Fellow, Information Society Project, Yale Law school',
    description:
       'law & technology',
    author: {
@@ -16,6 +14,7 @@ module.exports = {
       email: 'artur.monteiro@yale.edu',
       links: [
          'mailto:artur.monteiro@yale.edu',
+         'https://jackson.yale.edu/person/artur-pericles-lima-monteiro/',
          'https://law.yale.edu/artur-pericles-lima-monteiro',
          'https://twitter.com/arturpericles',
          'https://www.linkedin.com/in/arturpericles',
